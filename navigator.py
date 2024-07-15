@@ -3,7 +3,7 @@ import requests
 import openai
 
 # Set up OpenAI API key
-openai.api_key = "sk-proj-pmRjRhqNxxztNAgAGQGZT3BlbkFJfewqMnXcjM6afLMQ4HPN"
+openai.api_key = "sk-proj-8c1uMhGWphhxqXPXYOMYT3BlbkFJOXwM8ZwZFWd1TNYsUofO"
 
 # Function to get outside business insights
 def get_outside_insights():
